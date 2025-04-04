@@ -1,6 +1,6 @@
 git colne https://github.com/rachana437/carrental.git
 
-cd GG
+cd crarentals
 
 pip install -r requirements.txt
 
